@@ -13,7 +13,7 @@ x1 = (-b + (b**2 - 4*a*c)**(1/2)) / 2*a
 x2 = (-b - (b**2 - 4*a*c)**(1/2)) / 2*a
 
 print("A primeira raiz da equação é ", x1)
-print("A primeira raiz da equação é ", x2)
+print("A segunda raiz da equação é ", x2)
 
 print("-" * 30)
 
